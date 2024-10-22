@@ -1,0 +1,186 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.0.3",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "frontend-onchained": [
+        {
+          "file": "apps/frontend-onchained/.eslintignore",
+          "hash": "15388998783326483469"
+        },
+        {
+          "file": "apps/frontend-onchained/.eslintrc.cjs",
+          "hash": "16659622349671536439"
+        },
+        {
+          "file": "apps/frontend-onchained/.gitignore",
+          "hash": "2461336253350124065"
+        },
+        {
+          "file": "apps/frontend-onchained/.prettierignore",
+          "hash": "3972186345588113466"
+        },
+        {
+          "file": "apps/frontend-onchained/.prettierrc.js",
+          "hash": "4972368046346318435"
+        },
+        {
+          "file": "apps/frontend-onchained/README.md",
+          "hash": "12695644029125156110"
+        },
+        {
+          "file": "apps/frontend-onchained/package.json",
+          "hash": "8345055697009482438",
+          "deps": [
+            "npm:@types/eslint",
+            "npm:@types/node",
+            "npm:@typescript-eslint/eslint-plugin",
+            "npm:@typescript-eslint/parser",
+            "npm:autoprefixer",
+            "npm:eslint",
+            "npm:eslint-plugin-qwik",
+            "npm:postcss",
+            "npm:prettier",
+            "npm:prettier-plugin-tailwindcss",
+            "npm:tailwindcss",
+            "npm:typescript",
+            "npm:undici",
+            "npm:vite",
+            "npm:vite-tsconfig-paths",
+            "npm:@fontsource/nunito"
+          ]
+        },
+        {
+          "file": "apps/frontend-onchained/pnpm-lock.yaml",
+          "hash": "13888604954105705182"
+        },
+        {
+          "file": "apps/frontend-onchained/postcss.config.cjs",
+          "hash": "1579725330904862112"
+        },
+        {
+          "file": "apps/frontend-onchained/public/favicon.svg",
+          "hash": "13037570421075309623"
+        },
+        {
+          "file": "apps/frontend-onchained/public/manifest.json",
+          "hash": "12573047294351719872"
+        },
+        {
+          "file": "apps/frontend-onchained/public/robots.txt",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/frontend-onchained/qwik.env.d.ts",
+          "hash": "1792037603741036108"
+        },
+        {
+          "file": "apps/frontend-onchained/src/components/footer/Footer.tsx",
+          "hash": "4693088785449596753"
+        },
+        {
+          "file": "apps/frontend-onchained/src/components/header/Header.tsx",
+          "hash": "8985885282243905158"
+        },
+        {
+          "file": "apps/frontend-onchained/src/components/router-head/router-head.tsx",
+          "hash": "13869225469366272939"
+        },
+        {
+          "file": "apps/frontend-onchained/src/entry.dev.tsx",
+          "hash": "15859778472158270085"
+        },
+        {
+          "file": "apps/frontend-onchained/src/entry.preview.tsx",
+          "hash": "18241176629131630768"
+        },
+        {
+          "file": "apps/frontend-onchained/src/entry.ssr.tsx",
+          "hash": "9127566714885585545"
+        },
+        {
+          "file": "apps/frontend-onchained/src/global.css",
+          "hash": "2885799375830454325"
+        },
+        {
+          "file": "apps/frontend-onchained/src/root.tsx",
+          "hash": "13857207434090514982"
+        },
+        {
+          "file": "apps/frontend-onchained/src/routes/index.tsx",
+          "hash": "1328487690462691446"
+        },
+        {
+          "file": "apps/frontend-onchained/src/routes/layout.tsx",
+          "hash": "1319476655885267148"
+        },
+        {
+          "file": "apps/frontend-onchained/src/routes/service-worker.ts",
+          "hash": "7756631822665481529"
+        },
+        {
+          "file": "apps/frontend-onchained/tailwind.config.js",
+          "hash": "7648037379847150032"
+        },
+        {
+          "file": "apps/frontend-onchained/tsconfig.json",
+          "hash": "6896372378635884482"
+        },
+        {
+          "file": "apps/frontend-onchained/vite.config.ts",
+          "hash": "9251328777692163288"
+        }
+      ],
+      "shared-ui": [
+        {
+          "file": "packages/shared-ui/Background.tsx",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "packages/shared-ui/package.json",
+          "hash": "2977549090428052679"
+        }
+      ]
+    },
+    "nonProjectFiles": [
+      {
+        "file": ".gitignore",
+        "hash": "13404745306227114823"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "14092172138873811528"
+      },
+      {
+        "file": ".vscode/launch.json",
+        "hash": "2125652616757145198"
+      },
+      {
+        "file": ".vscode/qwik-city.code-snippets",
+        "hash": "7944545274723969739"
+      },
+      {
+        "file": ".vscode/qwik.code-snippets",
+        "hash": "12570788749085479650"
+      },
+      {
+        "file": ".vscode/settings.json",
+        "hash": "6414707288622281725"
+      },
+      {
+        "file": "package.json",
+        "hash": "1112541457827985997"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "13546393636669806878"
+      },
+      {
+        "file": "pnpm-workspace.yaml",
+        "hash": "3097983303653545603"
+      }
+    ]
+  }
+}
